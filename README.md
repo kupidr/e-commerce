@@ -1,2 +1,2 @@
 # e-commerce
-This is my 002-html-and-css second project.
+002 projcet E-commerce using html and css.
